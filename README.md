@@ -13,3 +13,5 @@
 ![image](https://media.discordapp.net/attachments/1102972433067151412/1104011705761153115/ayven_bot_8.png?width=816&height=393)
 ![image](https://media.discordapp.net/attachments/1102972433067151412/1104011825076506684/image.png?width=761&height=112)
 ![image](https://media.discordapp.net/attachments/1102972433067151412/1104011612215582760/ayven_bot_3.png?width=661&height=133)
+
+ <a href="https://discord.com/users/752942906322583712">bana</a> ulaşabilirsiniz.</p>
