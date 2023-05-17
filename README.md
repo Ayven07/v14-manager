@@ -1,6 +1,6 @@
 # v14-Public-Manager-Bot
 
-Söz verdiğim gibi paylaştım arkadaşlar github dosyasından ulaşabilirsiniz. Kaliteli bottur tek yapmanız gereken config dosyasını doldurmak githuba dosyasına basın ve indirin ücretli boylar için 'Ayven#2192
+Söz verdiğim gibi geliştrip paylaştım arkadaşlar github dosyasından ulaşabilirsiniz. Kaliteli bottur tek yapmanız gereken config dosyasını doldurmak githuba dosyasına basın ve indirin ücretli boylar için 'Ayven#2192 
 
 
 ![image](https://media.discordapp.net/attachments/1091726779741392957/1108415305585270834/image.png?width=1110&height=146)
