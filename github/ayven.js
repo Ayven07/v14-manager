@@ -143,7 +143,7 @@ client.on("interactionCreate", async (i) => {
       const soru4 = i.fields.getTextInputValue("soru4");
       const soru5 = i.fields.getTextInputValue("soru5");
 
-      const titan = new EmbedBuilder()
+      const kral = new EmbedBuilder()
       .setColor("Random")
       .setAuthor({ name: `${i.guild.name} Başvuru Sistemi`})
       .setThumbnail(i.guild.iconURL())
@@ -164,7 +164,7 @@ client.on("interactionCreate", async (i) => {
       .setTimestamp()
 
       await i.reply({ content: `Başvurun alındı`, ephemeral: true})
-      message = await logKanalı.send({ content: `${i.user}`, embeds: [titan], components: [row4]})
+      message = await logKanalı.send({ content: `${i.user}`, embeds: [kral], components: [row4]})
       db.set(message.id,i.user.id)
   }
 
@@ -253,7 +253,7 @@ client.on("interactionCreate", async (i) => {
       
       const soru6 = i.fields.getTextInputValue("soru6");
 
-      const titan = new EmbedBuilder()
+      const kral = new EmbedBuilder()
       .setColor("Random")
       .setAuthor({ name: `${i.guild.name} Öneri sistemi`})
       .setThumbnail(i.guild.iconURL())
@@ -266,7 +266,7 @@ client.on("interactionCreate", async (i) => {
       .setTimestamp()
 
       await i.reply({ content: `Öneriniz başarıyla alındı umarım yapılır`, ephemeral: true})
-      message = await onerikanal.send({ content: `${i.user}`, embeds: [titan], components: [row4]})
+      message = await onerikanal.send({ content: `${i.user}`, embeds: [kral], components: [row4]})
       db.set(message.id,i.user.id)
   }
 
@@ -313,7 +313,7 @@ client.on("interactionCreate", async (i) => {
       
       const soru7 = i.fields.getTextInputValue("soru7");
 
-      const titan = new EmbedBuilder()
+      const kral = new EmbedBuilder()
       .setColor("Random")
       .setAuthor({ name: `${i.guild.name} Şikayet sistemi`})
       .setThumbnail(i.guild.iconURL())
@@ -326,7 +326,7 @@ client.on("interactionCreate", async (i) => {
       .setTimestamp()
 
       await i.reply({ content: `Şikayetiniz başarıyla alındı umarım düzeltilir`, ephemeral: true})
-      message = await sikayetkanal.send({ content: `${i.user}`, embeds: [titan], components: [row4]})
+      message = await sikayetkanal.send({ content: `${i.user}`, embeds: [kral], components: [row4]})
       db.set(message.id,i.user.id)
   }
 
@@ -401,7 +401,7 @@ client.on("interactionCreate", async (i) => {
       const soru8 = i.fields.getTextInputValue("soru8");
       const soru2 = i.fields.getTextInputValue("soru2");
 
-      const titan = new EmbedBuilder()
+      const kral = new EmbedBuilder()
       .setColor("Random")
       .setAuthor({ name: `${i.guild.name} Yayıncı Sistemi`})
       .setThumbnail(i.guild.iconURL())
@@ -418,7 +418,7 @@ client.on("interactionCreate", async (i) => {
       .setTimestamp()
 
       await i.reply({ content: `Yayıncı başvuru formunuz alındı`, ephemeral: true})
-      message = await yayınlog.send({ content: `${i.user}`, embeds: [titan], components: [row4]})
+      message = await yayınlog.send({ content: `${i.user}`, embeds: [kral], components: [row4]})
       db.set(message.id,i.user.id)
   }
 
@@ -506,7 +506,7 @@ client.on("interactionCreate", async (i) => {
       
       const soru10 = i.fields.getTextInputValue("soru10");
 
-      const titan = new EmbedBuilder()
+      const kral = new EmbedBuilder()
       .setColor("Random")
       .setAuthor({ name: `${i.guild.name} Sorun çözme`})
       .setThumbnail(i.guild.iconURL())
@@ -519,7 +519,7 @@ client.on("interactionCreate", async (i) => {
       .setTimestamp()
 
       await i.reply({ content: `Sorun çözme yetkilimiz geliyor beklemede kalın`, ephemeral: true})
-      message = await sorunlog.send({ content: `${i.user}`, embeds: [titan], components: [row4]})
+      message = await sorunlog.send({ content: `${i.user}`, embeds: [kral], components: [row4]})
       db.set(message.id,i.user.id)
   }
 
