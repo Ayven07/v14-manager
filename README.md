@@ -3,7 +3,7 @@
 Söz verdiğim gibi geliştrip paylaştım arkadaşlar github dosyasından ulaşabilirsiniz. Kaliteli bottur tek yapmanız gereken config dosyasını doldurmak githuba dosyasına basın ve indirin ücretli botlar için 'Ayven#2192 
 
 
-![image](https://media.discordapp.net/attachments/1091726779741392957/1108415305585270834/image.png?width=1110&height=146)
+![image](https://cdn.discordapp.com/attachments/783621914409041921/1125678024478699632/Screenshot_20230704_094043_Chrome.jpg)
 ![image](https://media.discordapp.net/attachments/1091726779741392957/1108415366352355328/image.png?width=777&height=147)
 ![image](https://media.discordapp.net/attachments/1102972433067151412/1104011585221042217/ayven_bot_2.png?width=671&height=123)
 ![image](https://media.discordapp.net/attachments/1102972433067151412/1104011631266115694/ayven_bot_4.png?width=635&height=612)
