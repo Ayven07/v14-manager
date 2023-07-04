@@ -1,6 +1,6 @@
 # v14-Public-Manager-Bot
 
-Söz verdiğim gibi geliştrip paylaştım arkadaşlar github dosyasından ulaşabilirsiniz. Kaliteli bottur tek yapmanız gereken config dosyasını doldurmak githuba dosyasına basın ve indirin ücretli botlar için 'Ayven#2192 
+Söz verdiğim gibi yapıp paylaştım arkadaşlar github dosyasından ulaşabilirsiniz. Kaliteli bottur tek yapmanız gereken config dosyasını doldurmak githuba dosyasına basın ve indirin ücretli botlar için 'Ayven#2192 
 
 **↓↓↓ ÜCRETLİ ALT YAPI VEYA SUNUCUYA ÖZEL BOT İÇİN ↓↓↓**
 <br> </br>
