@@ -14,8 +14,9 @@ Söz verdiğim gibi geliştrip paylaştım arkadaşlar github dosyasından ulaş
 
 
 # GÖRSELLER 
+daha fazla görsel varda üşendim yapınca görürsünüz 
 ![image](https://cdn.discordapp.com/attachments/783621914409041921/1125678024478699632/Screenshot_20230704_094043_Chrome.jpg)
-![image](https://media.discordapp.net/attachments/1091726779741392957/1108415366352355328/image.png?width=777&height=147)
+![image](https://cdn.discordapp.com/attachments/783621914409041921/1125678225654304818/Screenshot_20230704_094253_Chrome.jpg)
 ![image](https://media.discordapp.net/attachments/1102972433067151412/1104011585221042217/ayven_bot_2.png?width=671&height=123)
 ![image](https://media.discordapp.net/attachments/1102972433067151412/1104011631266115694/ayven_bot_4.png?width=635&height=612)
 ![image](https://media.discordapp.net/attachments/1102972433067151412/1104011655056203846/ayven_bot_5.png?width=835&height=426)
